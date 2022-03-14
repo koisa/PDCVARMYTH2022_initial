@@ -1,1 +1,1 @@
-# PDCVARMYTH2022 initial template
+# initial template
